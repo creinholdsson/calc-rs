@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "calc-rs_core",
+    "calc-rs_gui",
+    "calc-rs_cli"
+]
